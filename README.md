@@ -1,4 +1,6 @@
-# Vocabulary Quiz System Design
+# Real-Time Vocabulary Quiz System
+This project involves creating a Real-Time Quiz Feature for an English learning application, where users can participate in quizzes, compete with others, and see their scores updated live on a leaderboard. The project focuses on system design, real-time functionality, scalability, and performance.
+
 ## Demo
 [Visit here](https://drive.google.com/file/d/1mX6ds17MT2Z-q11JPuJvGlHQTyCCKF41/view?usp=drivesdk)
 ## Functional Requirements
